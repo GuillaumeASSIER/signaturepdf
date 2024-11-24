@@ -1,4 +1,4 @@
-name: Dev build
+name: Docker image build
 
 on:
   schedule:
